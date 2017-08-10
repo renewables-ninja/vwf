@@ -62,7 +62,7 @@ See `LICENSE` for more detail
 
 ## CREDITS & CONTACT
 
-The VWF code is developed by Iain Staffell.  You can try emailing me at [i.staffell@imperial.ac.uk](mailto:i.staffell@imperial.ac.uk?subject=Renewables.ninja VWF code)
+The VWF code is developed by Iain Staffell.  You can try emailing me at i.staffell@imperial.ac.uk
 
 VWF is part of the [Renewables.ninja](https://renewables.ninja) project, developed by Stefan Pfenninger and Iain Staffell.  Use the [contacts page](https://www.renewables.ninja/about) there.
 
