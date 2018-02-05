@@ -57,6 +57,8 @@ BSD 3-Clause License
 Copyright (C) 2012-2017  Iain Staffell
 All rights reserved.
 
+This excludes all contents of the `power_curves` folder which remains the property of the respective copyright holders.
+
 See `LICENSE` for more detail
 
 
